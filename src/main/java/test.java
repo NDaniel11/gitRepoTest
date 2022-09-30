@@ -6,6 +6,7 @@ public class test {
         System.out.println("toni");
         System.out.println("local");
         System.out.println("local2");
+        System.out.println("daniLocal");
 
 
     }
