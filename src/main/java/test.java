@@ -3,5 +3,10 @@ public class test {
         System.out.println("test");
         System.out.println("dani");
 
+        System.out.println("toni");
+        System.out.println("local");
+        System.out.println("local2");
+
+
     }
 }
